@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239944767220",
+    "project_id": "relo-fast",
+    "storage_bucket": "relo-fast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239944767220:android:416084a3bb6210b88270a1",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdmDg4e9L3hzcz-mROOz8HrNwZlfWGh6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239944767220:android:3c3d8b71341843518270a1",
+        "android_client_info": {
+          "package_name": "com.example.hama_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdmDg4e9L3hzcz-mROOz8HrNwZlfWGh6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
